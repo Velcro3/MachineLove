@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Frontend/Frontend.csproj" />
+  <Project Path="LogicEngineDLL/LogicEngineDLL.fsproj" />
+</Solution>
